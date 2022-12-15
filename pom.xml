@@ -19,7 +19,7 @@
         <maven.compiler.target>1.7</maven.compiler.target>
         <mybatis.version>3.5.0</mybatis.version>
         <mybatis-spring.version>2.0.0</mybatis-spring.version>
-        <spring.version>5.1.0.RELEASE</spring.version>
+        <spring.version>5.2.20.RELEASE</spring.version>
     </properties>
 
     <dependencies>
